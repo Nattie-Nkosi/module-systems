@@ -14,7 +14,7 @@ import { ElementsHomeComponent } from './elements-home/elements-home.component';
     ElementsRoutingModule
   ],
   exports: [
-    ElementsHomeComponent
+
   ]
 })
 export class ElementsModule { }
